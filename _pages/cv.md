@@ -20,13 +20,13 @@ Tezpur University, Assam, India
 University of Hyderabad, Telangana, India  
 Specialisation in Particle Physics and QFT  
 
-**Bachelor of Science** in Physics (2014-2017)  
+* **Bachelor of Science** in Physics (2014-2017)  
 Gauhati University, Assam, India  
 
-**B.Borooah College** (2012–2014)  
+* **B.Borooah College** (2012–2014)  
 Guwahati, Assam, India  
 
-**St. Stephen’s School** (2001-2012)  
+* **St. Stephen’s School** (2001-2012)  
 Guwahati, Assam, India  
 
 * B.S. in GitHub, GitHub University, 2012
