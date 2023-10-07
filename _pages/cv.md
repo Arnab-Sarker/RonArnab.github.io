@@ -39,11 +39,12 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
->### Computer Skills
-
-**Programming languages** -  C++, C, Python, Fortran.  
-**Operating System** - Windows, Linux.  
-**Software Packages** - ROOT, Armadillo, PyTorch, NuOscProb Package, GLoBES Package, OriginLab, Lyx, Microsoft Office, Libre Office, LaTeX.  
+Skills
+======
+* **Programming languages** -  C++, C, Python, Fortran.  
+* **Operating System** - Windows, Linux.  
+* **Software Packages** - ROOT, Armadillo, PyTorch, NuOscProb Package, GLoBES Package, OriginLab, Lyx, Microsoft Office, Libre Office, LaTeX.  
+* **Machine learning frameworks** - PyTorch, Tensorflow, Scikit-Learn.
 
 Skills
 ======
