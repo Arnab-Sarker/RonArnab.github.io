@@ -45,15 +45,10 @@ Skills
 * **Operating System** - Windows, Linux.  
 * **Software Packages** - ROOT, Armadillo, PyTorch, NuOscProb Package, GLoBES Package, OriginLab, Lyx, Microsoft Office, Libre Office, LaTeX.  
 * **Machine learning frameworks** - PyTorch, Tensorflow, Scikit-Learn.
-
-Skills
-======
-* Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -73,8 +68,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
 
 **My CV can be downloaded [here](https://drive.google.com/file/d/1bTll_sI_UQRcEyGmn32DVg6wCAYm29pt/view?usp=sharing)**
