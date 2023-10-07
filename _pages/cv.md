@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-**PhD in Physics** (2020-)  
+* **PhD in Physics** (2020-)  
 Research Scholar at Tezpur University (2020-)  
 Working under the supervision of Dr. Moon Moon Devi  
 Tezpur University, Assam, India
 
-**Masters of Science** in Physics (2018-2020)  
+* **Masters of Science** in Physics (2018-2020)  
 University of Hyderabad, Telangana, India  
 Specialisation in Particle Physics and QFT  
 
