@@ -29,22 +29,22 @@ Guwahati, Assam, India
 * **St. Stephen’s School** (2001-2012)  
 Guwahati, Assam, India  
 
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
+* I have worked in application of Machine learning in Water Cherenkov detectors which are used for the detection of neutrinos.  
+* For my Master's project, I have studied the CP Violation in Charm systems.  
+* During my Bachelor's, I have worked with a group to develop SiPM detector for detection of cosmic muons.
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+>### Computer Skills
+
+**Programming languages** -  C++, C, Python, Fortran.  
+**Operating System** - Windows, Linux.  
+**Software Packages** - ROOT, Armadillo, PyTorch, NuOscProb Package, GLoBES Package, OriginLab, Lyx, Microsoft Office, Libre Office, LaTeX.  
+
 Skills
 ======
 * Skill 1
