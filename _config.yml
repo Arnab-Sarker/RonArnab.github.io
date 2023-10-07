@@ -83,7 +83,7 @@ author:
   name             : "Arnab Sarker"
   avatar           : "profile.jpeg"
   bio              : " A researcher trying to leave his mark"
-  location         : "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=arnab%20sarker&ui-citation-summary=true"
+  location         : #"https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=arnab%20sarker&ui-citation-summary=true"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3_EzzEoAAAAJ&hl=en&oi=ao"
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  InspireHep       : 
 
 
 # Reading Files
