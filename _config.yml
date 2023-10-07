@@ -83,9 +83,9 @@ author:
   name             : "Arnab Sarker"
   avatar           : "profile.jpeg"
   bio              : " A researcher trying to leave his mark"
-  location         : "Location"
+  location         : #"Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3_EzzEoAAAAJ&hl=en&oi=ao"
   email            : "arnabsarker00@gmail.com/arnabs@tezu.ernet.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
