@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+My Education
 ======
 * **PhD in Physics** (2020-)  
 Research Scholar at Tezpur University (2020-)  
