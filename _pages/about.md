@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website"
+title: "Hi, This is Arnab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 [comment]: # (Still another comment)
 
-[comment]: # (Still another commentHello .......... [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in whihe [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) cre. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, mo [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).)
+[comment]: # (Still another commentHello .......... [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in whihe [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) cre. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, mo [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -43,4 +43,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.)
